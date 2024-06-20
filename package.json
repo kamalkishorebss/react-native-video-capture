@@ -1,0 +1,21 @@
+{
+  "name": "react-native-video-capture",
+  "version": "1.0.0",
+  "description": "A React Native plugin for video capture with customizable frame rate and resolution, image stabilization, and background sync.",
+  "main": "index.js",
+  "author": {
+    "name": "Author Name",
+    "email": "author@example.com",
+    "url": "https://authorwebsite.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/author/react-native-video-capture.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.69.5",
+    "react-native-video": "^5.1.1",
+    "react-native-background-fetch": "^4.0.4"
+  }
+}
