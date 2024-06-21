@@ -1,3 +1,3 @@
 import VideoCapture from './src/VideoCapture';
 
-export { VideoCapture };
+export default VideoCapture ;
