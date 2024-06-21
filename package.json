@@ -15,7 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "react-native": "^0.69.5",
-    "react-native-video": "^5.1.1",
-    "react-native-background-fetch": "^4.0.4"
+    "react-native-background-fetch": "^4.0.4",
+    "react-native-camera": "^4.2.1",
+    "react-native-video": "^5.1.1"
   }
 }
